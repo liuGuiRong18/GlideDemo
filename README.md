@@ -294,7 +294,7 @@ public class MyAppGlideModule extends com.bumptech.glide.module.AppGlideModule {
     }
 
     /**
-     * //替换Glide组件
+     * 替换Glide组件
      * @param context
      * @param glide
      * @param registry
