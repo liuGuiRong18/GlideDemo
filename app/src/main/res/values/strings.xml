@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GlideDemo</string>
+    <string name="title_activity_load_image">PreLoadImageActivity</string>
+    <string name="title_activity_load_image_skip_cache">LoadImageActivity</string>
 </resources>
