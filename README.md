@@ -42,8 +42,7 @@
 ```
 
 
-# 开始使用
-## 1. 基本用法
+## 开始使用
 #### （1）加载图片
 ```
     Glide.with(context) .load(url).into(imageView)
